@@ -3,7 +3,7 @@
 #include <time.h>
 
 #define Numero_lanzamientos 20
-
+//Funciones
 int dado();
 
 int main()
